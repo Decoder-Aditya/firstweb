@@ -1,4 +1,4 @@
-[![MasterHead](([(https://s3-us-west-2.amazonaws.com/robogarden-new/Articles/upload/blogs/lg-leverage-of-coding.jpg))](https://rishavchanda.io)
+[![MasterHead][((https://s3-us-west-2.amazonaws.com/robogarden-new/Articles/upload/blogs/lg-leverage-of-coding.jpg))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aditya Pratap Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/gTg8ZSZMR6YAAAAM/scaler-create-impact.gif">
