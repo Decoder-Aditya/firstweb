@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E12AQFCW1WDUb8Ipg/article-cover_image-shrink_720_1280/0/1645456014612?e=2147483647&v=beta&t=fHvWJVG85uTIXkFcLNVKUAiWWO3dwyvHhFB-tJCJWZ4)](https://rishavchanda.io)
+[![MasterHead]([https://media.licdn.com/dms/image/C4E12AQFCW1WDUb8Ipg/article-cover_image-shrink_720_1280/0/1645456014612?e=2147483647&v=beta&t=fHvWJVG85uTIXkFcLNVKUAiWWO3dwyvHhFB-tJCJWZ4](https://s3-us-west-2.amazonaws.com/robogarden-new/Articles/upload/blogs/lg-leverage-of-coding.jpg))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aditya Pratap Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/gTg8ZSZMR6YAAAAM/scaler-create-impact.gif">
